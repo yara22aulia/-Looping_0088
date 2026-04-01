@@ -159,7 +159,8 @@ void output() {
     cout << "-------------------------------" << endl;
 }
 
-int main() 
+int main(
+) 
 {
     input();
     pilihanJurusan();
