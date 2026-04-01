@@ -2,7 +2,8 @@
 #include <ctime>
 using namespace std;
 
-int main(){
+int main()
+{
     int x;
 
     cout << "PERULANGAN FOR" << endl;
@@ -148,7 +149,8 @@ void output() {
     cout << "-------------------------------" << endl;
 }
 
-int main() {
+int main() 
+{
     input();
     pilihanJurusan();
     output();
